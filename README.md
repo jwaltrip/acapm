@@ -1,4 +1,6 @@
 
+> Day 3 HW - Due Wed 10-17
+
 ## Let's create our own package manager
 
 * Create a node program
