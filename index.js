@@ -40,6 +40,7 @@ if (firstParam === 'init') {
                 console.log('Error writing package.json to disk');
               });
 
+              // close the readline interface
               rl.close();
             });
           });
